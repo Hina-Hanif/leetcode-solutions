@@ -4,11 +4,6 @@ Hi! 👋 I'm currently learning Data Structures and Algorithms, and this is wher
 
 Right now, I'm just getting started — so far, I've solved one problem:
 
-## ✅ Solved Problems
-
-| Problem # | Title                        | Difficulty | Language |
-|-----------|------------------------------|------------|----------|
-| 35        | Search insert position       | Easy       | Python   |
 
 ## 🚀 Why This Repo?
 
